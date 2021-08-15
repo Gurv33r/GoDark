@@ -8,7 +8,7 @@ So, what do you do when you have a good theme that doesn't support something you
 I took matters into my own hands and edited the json file that controls the theme's scopes and colors to support Go syntax  
 
 If you want to install it, I recommend:  
-1. Downloading the Deep Dark theme on Visual Studio Code (aka VSCode)
+1. Downloading the *Deep Dark Material Theme by Nimda* on Visual Studio Code (aka VSCode)
    - You can keep your VSCode window open, just know that **you will have to restart the window after the changes are applied**
    - To restart the window, open the command palette (*CTRL+SHIFT+P*) and enter "reload window" and click on it or hit enter
 3. Go into your *.vscode* directory in your computer's home directory (i.e. the ~ directory)
