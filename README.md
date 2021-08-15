@@ -23,3 +23,4 @@ If you want to install it, I recommend:
    - If you had a VSCode window open the whole time:
      1. Make sure that the theme is installed and applied
      2. Reload the window if the Go theme hasn't applied as detailed under Step 1 
+## Happy Coding!
