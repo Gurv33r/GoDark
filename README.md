@@ -1,7 +1,7 @@
 # GoDark
 ## Deep Dark theme for Gophers  
 The theme *Deep Dark Material Theme* by *Nimda*  on VSCode is really good for the Holy Trinity of Web Development: HTML, CSS, and Javascript\
-**BUT** its support/theme for Go **sucks donkey balls** (almost every letter of text was white)  
+**BUT** its support/theme for Go **SUCKS DONKEY BALLS** (almost every letter of text was white)  
   
 So, what do you do when you have a good theme that doesn't support something you want it to support?  
 **YOU FIX IT YOURSELF**  
